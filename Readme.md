@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>GEN-AI FINANCIAL ASSISTANT    <br>🌱 I’m currently learning<br>Java,Mobile App Development <br>
+🌱 I’m currently learning<br>Java,Mobile App Development 
 
 
 ## 🌐 Socials:
