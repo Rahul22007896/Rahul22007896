@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>Java,Mobile App Development 
+🌱 I’m currently learning<br>Data Science And GenAI
 
 
 ## 🌐 Socials:
