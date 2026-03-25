@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>Data Science And GenAI
+🌱 Gen-AI Engineer<br> Machine Learning , Deep Learning , GenAI , Agentic AI
 
 
 ## 🌐 Socials:
