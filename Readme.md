@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 Gen-AI Engineer<br> Machine Learning , Deep Learning , GenAI , Agentic AI
+#  About Me:
+ Gen-AI Engineer<br> Machine Learning , Deep Learning , GenAI , Agentic AI
 
 
 ## 🌐 Socials:
